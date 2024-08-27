@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1151.1837"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-506.158936 -144.000000 1151.183716 587.000000" height="587.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -116.622009,191.370987 L 29.951208,288.079102"
+              class="id_Suyu_Arayan_Adam id_Türk_Yurdu_Mecmuası"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -127.632965,195.502380 L -189.754028,420.256134"
+              class="id_Suyu_Arayan_Adam id_Hurafattan_Hakikata"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -123.989548,195.815704 L -108.161247,356.660217"
+              class="id_Suyu_Arayan_Adam id_Turan" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -115.376244,188.688843 L 84.117325,247.440292"
+              class="id_Suyu_Arayan_Adam id_Cihan_Harbini_Nasıl_İdare_Ettik"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -133.645477,190.835388 L -348.769897,314.100220"
+              class="id_Suyu_Arayan_Adam id_Moskova_Hatıraları"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.246124,194.902878 L -186.912750,316.770447"
+              class="id_Suyu_Arayan_Adam id_İki_Devrin_Perde_Arkası"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.473221,188.973083 L -219.957397,216.938980"
+              class="id_Suyu_Arayan_Adam id_Makedonya&apos;dan_Ortaasya&apos;ya"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.091255,175.902359 L -113.182449,52.084335"
+              class="id_Suyu_Arayan_Adam id_Bugünkü_Türkistan"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.918213,184.858307 L -318.995667,166.255859"
+              class="id_Suyu_Arayan_Adam id_Tek_Adam" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.016876,176.719711 L -169.338135,85.637047"
+              class="id_Suyu_Arayan_Adam id_İstiklal_Harbimiz"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -115.053596,187.162537 L 6.995969,203.149384"
+              class="id_Suyu_Arayan_Adam id_Büyük_Petro" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.979362,176.067947 L -166.328888,-15.658784"
+              class="id_Suyu_Arayan_Adam id_Kaybolmuş_Köy" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.997993,185.101425 L 56.208393,172.011642"
+              class="id_Suyu_Arayan_Adam id_Bu_Dünyadan_Nazım_Geçti"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.457596,192.465317 L 44.909721,335.167053"
+              class="id_Suyu_Arayan_Adam id_İstiklal_Mücadelesi_ve_Enver_Paşa"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.373024,180.753876 L -4.956188,114.521042"
+              class="id_Suyu_Arayan_Adam id_İnkilap_Tarihimiz_ve_İttihad_ve_Terakki"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -121.676720,195.306305 L -45.828316,412.852905"
+              class="id_Suyu_Arayan_Adam id_Türkiye&apos;de_İnkilap_Hareketleri"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -119.195717,194.028961 L 14.085575,382.532928"
+              class="id_Suyu_Arayan_Adam id_Türkiye&apos;nin_Taksimi"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -115.449203,182.801819 L 168.685684,91.411613"
+              class="id_Suyu_Arayan_Adam id_Floransa_Tarihi"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -131.874603,178.631119 L -287.194275,15.958218"
+              class="id_Suyu_Arayan_Adam id_Kırmızı_Mektuplar"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.748657,194.024307 L -255.588486,370.287933"
+              class="id_Suyu_Arayan_Adam id_Ben_Bir_Stalin_Ajanıyım"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.336823,182.364944 L -301.733856,119.843903"
+              class="id_Suyu_Arayan_Adam id_Muasır_Türkiye’nin_İktisadi_İnkişaf_İstikametleri"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -119.983932,177.194855 L -23.275278,9.017033"
+              class="id_Suyu_Arayan_Adam id_İnkılap_ve_Kadro"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -132.866684,191.997681 L -243.495636,277.919098"
+              class="id_Suyu_Arayan_Adam id_Devlet_ve_Fert" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -134.793060,187.730804 L -390.676575,236.360443"
+              class="id_Suyu_Arayan_Adam id_Fırkamızın_Devletçilik_Vasfı"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.257019,90.147888 L 450.390411,297.904633"
+              class="id_Toplum_Sözleşmesi id_Fransa&apos;nın_Komşuları_ile_Olan_Çıkarları_Üzerine"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 365.227112,76.513535 L 526.641296,-3.931143"
+              class="id_Toplum_Sözleşmesi id_Politika" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 356.021423,70.977295 L 351.757538,-95.778023"
+              class="id_Toplum_Sözleşmesi id_Hayvanlarda_Düşünme"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.119843,71.741867 L 418.865875,-69.392326"
+              class="id_Toplum_Sözleşmesi id_Geneva" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 346.283813,81.342300 L 194.052460,86.952332"
+              class="id_Toplum_Sözleşmesi id_Floransa_Tarihi"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 364.277435,86.973495 L 506.510498,193.633560"
+              class="id_Toplum_Sözleşmesi id_Kanunların_Ruhu"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 355.797424,90.962524 L 344.290375,330.614685"
+              class="id_Toplum_Sözleşmesi id_Titius-Livius_Üzerine_Konuşma"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 362.105011,89.100212 L 478.441223,251.312820"
+              class="id_Toplum_Sözleşmesi id_Tarih" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 363.071716,73.636978 L 468.530945,-40.240349"
+              class="id_Toplum_Sözleşmesi id_Agricola" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 365.659332,84.434204 L 534.121643,146.562836"
+              class="id_Toplum_Sözleşmesi id_Militiades&apos;in_Hayatı"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 366.170471,79.518066 L 545.237549,53.165817"
+              class="id_Toplum_Sözleşmesi id_M_d&apos;Alembert&apos;e_Mektup"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 352.183289,71.850365 L 265.252350,-121.891373"
+              class="id_Toplum_Sözleşmesi id_De_Cive" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Türk_Yurdu_Mecmuası"
+                  points="32.455273,289.731262 29.125124,289.331146 30.777292,286.827057"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Hurafattan_Hakikata"
+                  points="-190.553238,423.147705 -191.199814,419.856537 -188.308243,420.655731"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Turan"
+                  points="-107.867447,359.645782 -109.654037,356.807129 -106.668457,356.513306"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Cihan_Harbini_Nasıl_İdare_Ettik"
+                  points="86.995125,248.287811 83.693565,248.879196 84.541084,246.001389"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Moskova_Hatıraları"
+                  points="-351.372864,315.591705 -349.515656,312.798737 -348.024139,315.401703"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_İki_Devrin_Perde_Arkası"
+                  points="-188.195923,319.482178 -188.268616,316.128876 -185.556885,317.412018"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Makedonya&apos;dan_Ortaasya&apos;ya"
+                  points="-222.808701,217.871765 -220.423798,215.513336 -219.490997,218.364624"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Bugünkü_Türkistan"
+                  points="-112.919159,49.095913 -111.688240,52.215981 -114.676659,51.952690"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Tek_Adam"
+                  points="-321.980469,165.954224 -318.844849,164.763458 -319.146484,167.748260"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_İstiklal_Harbimiz"
+                  points="-170.552521,82.893829 -167.966522,85.029854 -170.709747,86.244240"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Büyük_Petro"
+                  points="9.970559,203.539017 6.801153,204.636673 7.190784,201.662094"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Kaybolmuş_Köy"
+                  points="-166.932037,-18.597528 -164.859512,-15.960355 -167.798264,-15.357213"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Bu_Dünyadan_Nazım_Geçti"
+                  points="59.199661,171.782944 56.322742,173.507278 56.094044,170.516006"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_İstiklal_Mücadelesi_ve_Enver_Paşa"
+                  points="47.163109,337.147522 43.919491,336.293762 45.899952,334.040344"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_İnkilap_Tarihimiz_ve_İttihad_ve_Terakki"
+                  points="-2.377427,112.988075 -4.189703,115.810425 -5.722673,113.231659"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Türkiye&apos;de_İnkilap_Hareketleri"
+                  points="-44.840660,415.685669 -47.244698,413.346741 -44.411934,412.359070"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Türkiye&apos;nin_Taksimi"
+                  points="15.817529,384.982483 12.860796,383.398895 15.310354,381.666962"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Floransa_Tarihi"
+                  points="171.541595,90.493034 169.144974,92.839569 168.226395,89.983658"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Kırmızı_Mektuplar"
+                  points="-289.265991,13.788424 -286.109375,14.922361 -288.279175,16.994074"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Ben_Bir_Stalin_Ajanıyım"
+                  points="-257.322418,372.736084 -256.812561,369.420959 -254.364410,371.154907"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Muasır_Türkiye’nin_İktisadi_İnkişaf_İstikametleri"
+                  points="-304.544250,118.794250 -301.209045,118.438713 -302.258667,121.249092"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_İnkılap_ve_Kadro"
+                  points="-21.779789,6.416356 -21.974939,9.764776 -24.575617,8.269289"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Devlet_ve_Fert"
+                  points="-245.864975,279.759277 -244.415726,276.734436 -242.575546,279.103760"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Suyu_Arayan_Adam id_Fırkamızın_Devletçilik_Vasfı"
+                  points="-393.623840,236.920563 -390.956635,234.886826 -390.396515,237.834061"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Fransa&apos;nın_Komşuları_ile_Olan_Çıkarları_Üzerine"
+                  points="451.584412,300.656799 449.014343,298.501617 451.766479,297.307648"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Politika"
+                  points="529.326355,-5.269290 527.310364,-2.588630 525.972229,-5.273655"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Hayvanlarda_Düşünme"
+                  points="351.680847,-98.777039 353.257050,-95.816368 350.258026,-95.739677"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Geneva"
+                  points="420.018738,-72.161972 420.250702,-68.815903 417.481049,-69.968750"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Floransa_Tarihi"
+                  points="191.054489,87.062813 193.997223,85.453346 194.107697,88.451317"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Kanunların_Ruhu"
+                  points="508.910614,195.433411 505.610565,194.833618 507.410431,192.433502"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Titius-Livius_Üzerine_Konuşma"
+                  points="344.146515,333.611237 342.792114,330.542755 345.788635,330.686615"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Tarih"
+                  points="480.189606,253.750687 477.222290,252.187012 479.660156,250.438629"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Agricola"
+                  points="470.569336,-42.441467 469.631500,-39.221146 467.430389,-41.259552"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_Militiades&apos;in_Hayatı"
+                  points="536.936340,147.600891 533.602600,147.970184 534.640686,145.155487"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_M_d&apos;Alembert&apos;e_Mektup"
+                  points="548.205566,52.729031 545.455933,54.649834 545.019165,51.681801"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Toplum_Sözleşmesi id_De_Cive"
+                  points="264.024231,-124.628471 266.620911,-122.505432 263.883789,-121.277313"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-124.968895"
+                class="id_Suyu_Arayan_Adam" cy="185.86377" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="40.80216"
+                class="id_Türk_Yurdu_Mecmuası" cy="295.2385" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-193.21732"
+                class="id_Hurafattan_Hakikata" cy="432.78632" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-106.8881"
+                class="id_Turan" cy="369.59772" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="96.587776"
+                class="id_Cihan_Harbini_Nasıl_İdare_Ettik" cy="251.11288"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-360.04944"
+                class="id_Moskova_Hatıraları" cy="320.56332" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-192.47314"
+                class="id_İki_Devrin_Perde_Arkası" cy="328.52127"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-232.31302"
+                class="id_Makedonya&apos;dan_Ortaasya&apos;ya" cy="220.98108"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-112.04153"
+                class="id_Bugünkü_Türkistan" cy="39.1345" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-331.92978"
+                class="id_Tek_Adam" cy="164.94876" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-174.6005"
+                class="id_İstiklal_Harbimiz" cy="73.74976" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="19.88586"
+                class="id_Büyük_Petro" cy="204.83778" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-168.9425"
+                class="id_Kaybolmuş_Köy" cy="-28.393345" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="69.17056"
+                class="id_Bu_Dünyadan_Nazım_Geçti" cy="171.0206"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="54.674408"
+                class="id_İstiklal_Mücadelesi_ve_Enver_Paşa" cy="343.74905"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="6.218441"
+                class="id_İnkilap_Tarihimiz_ve_İttihad_ve_Terakki"
+                cy="107.878174" stroke="#868686" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-41.548485"
+                class="id_Türkiye&apos;de_İnkilap_Hareketleri" cy="425.1282"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="21.59071"
+                class="id_Türkiye&apos;nin_Taksimi" cy="393.14767"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="181.06128"
+                class="id_Floransa_Tarihi" cy="87.43108" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-296.1717"
+                class="id_Kırmızı_Mektuplar" cy="6.5557785" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-263.10217"
+                class="id_Ben_Bir_Stalin_Ajanıyım" cy="380.89664"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-313.91217"
+                class="id_Muasır_Türkiye’nin_İktisadi_İnkişaf_İstikametleri"
+                cy="115.295425" stroke="#868686" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-16.79483"
+                class="id_İnkılap_ve_Kadro" cy="-2.2525635" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-253.76276"
+                class="id_Devlet_ve_Fert" cy="285.8932" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-403.448"
+                class="id_Fırkamızın_Devletçilik_Vasfı" cy="238.7876"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="356.27704"
+                class="id_Toplum_Sözleşmesi" cy="80.97403" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="455.5644"
+                class="id_Fransa&apos;nın_Komşuları_ile_Olan_Çıkarları_Üzerine"
+                cy="309.83066" stroke="#868686" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="538.2764"
+                class="id_Politika" cy="-9.729782" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="351.42523"
+                class="id_Hayvanlarda_Düşünme" cy="-108.77377" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="423.86154"
+                class="id_Geneva" cy="-81.394135" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="516.911"
+                class="id_Kanunların_Ruhu" cy="201.43288" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="343.6669"
+                class="id_Titius-Livius_Üzerine_Konuşma" cy="343.59973"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="486.01758"
+                class="id_Tarih" cy="261.87686" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="477.364"
+                class="id_Agricola" cy="-49.77852" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="546.3186"
+                class="id_Militiades&apos;in_Hayatı" cy="151.06107"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="558.099"
+                class="id_M_d&apos;Alembert&apos;e_Mektup" cy="51.27307"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="259.93048"
+                class="id_De_Cive" cy="-133.75214" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="16" x="-124.968895"
+              y="189.61899" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Suyu_Arayan_Adam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Suyu Arayan Adam
+        </text>
+        <text stroke-linecap="round" font-size="16" x="40.80216" y="298.16687"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türk_Yurdu_Mecmuası"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Türk Yurdu Mecmuası
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-193.21732" y="435.74594"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hurafattan_Hakikata"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Hurafattan Hakikata
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-106.8881" y="372.50787"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Turan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Turan
+        </text>
+        <text stroke-linecap="round" font-size="16" x="96.587776" y="254.59857"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cihan_Harbini_Nasıl_İdare_Ettik"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Cihan Harbini Nasıl İdare Ettik
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-360.04944" y="323.47348"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moskova_Hatıraları" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Moskova Hatıraları
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-192.47314" y="332.00433"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İki_Devrin_Perde_Arkası"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            İki Devrin Perde Arkası
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-232.31302" y="224.7376"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Makedonya&apos;dan_Ortaasya&apos;ya"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Makedonya&apos;dan Ortaasya&apos;ya
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-112.04153" y="42.858456"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bugünkü_Türkistan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Bugünkü Türkistan
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-331.92978" y="167.85892"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tek_Adam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Tek Adam
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-174.6005" y="77.232834"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İstiklal_Harbimiz" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            İstiklal Harbimiz
+        </text>
+        <text stroke-linecap="round" font-size="16" x="19.88586" y="208.56174"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Büyük_Petro" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Büyük Petro
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-168.9425" y="-24.669386"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kaybolmuş_Köy" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Kaybolmuş Köy
+        </text>
+        <text stroke-linecap="round" font-size="16" x="69.17056" y="174.77582"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bu_Dünyadan_Nazım_Geçti"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Bu Dünyadan Nazım Geçti
+        </text>
+        <text stroke-linecap="round" font-size="16" x="54.674408" y="348.00818"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İstiklal_Mücadelesi_ve_Enver_Paşa"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            İstiklal Mücadelesi ve Enver Paşa
+        </text>
+        <text stroke-linecap="round" font-size="16" x="6.218441" y="112.10994"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_İnkilap_Tarihimiz_ve_İttihad_ve_Terakki"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            İnkilap Tarihimiz ve İttihad ve Terakki
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-41.548485" y="429.40686"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türkiye&apos;de_İnkilap_Hareketleri"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Türkiye&apos;de İnkilap Hareketleri
+        </text>
+        <text stroke-linecap="round" font-size="16" x="21.59071" y="396.87164"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türkiye&apos;nin_Taksimi"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Türkiye&apos;nin Taksimi
+        </text>
+        <text stroke-linecap="round" font-size="16" x="181.06128" y="90.34124"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Floransa_Tarihi" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Floransa Tarihi
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-296.1717" y="10.214633"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kırmızı_Mektuplar" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Kırmızı Mektuplar
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-263.10217" y="384.65186"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ben_Bir_Stalin_Ajanıyım"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Ben Bir Stalin Ajanıyım
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-313.91217"
+              y="119.574066" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Muasır_Türkiye’nin_İktisadi_İnkişaf_İstikametleri"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Muasır Türkiye’nin İktisadi İnkişaf İstikametleri
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-16.79483" y="1.9792075"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İnkılap_ve_Kadro" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            İnkılap ve Kadro
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-253.76276" y="288.80334"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Devlet_ve_Fert" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Devlet ve Fert
+        </text>
+        <text stroke-linecap="round" font-size="16" x="-403.448" y="242.52328"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fırkamızın_Devletçilik_Vasfı"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Fırkamızın Devletçilik Vasfı
+        </text>
+        <text stroke-linecap="round" font-size="16" x="356.27704" y="84.7097"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Toplum_Sözleşmesi" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Toplum Sözleşmesi
+        </text>
+        <text stroke-linecap="round" font-size="16" x="455.5644" y="314.1184"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Fransa&apos;nın_Komşuları_ile_Olan_Çıkarları_Üzerine"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Fransa&apos;nın Komşuları ile Olan Çıkarları Üzerine
+        </text>
+        <text stroke-linecap="round" font-size="16" x="538.2764" y="-6.819626"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Politika" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Politika
+        </text>
+        <text stroke-linecap="round" font-size="16" x="351.42523" y="-105.04982"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hayvanlarda_Düşünme"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Hayvanlarda Düşünme
+        </text>
+        <text stroke-linecap="round" font-size="16" x="423.86154" y="-78.4319"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Geneva" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Geneva
+        </text>
+        <text stroke-linecap="round" font-size="16" x="516.911" y="204.34303"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kanunların_Ruhu" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Kanunların Ruhu
+        </text>
+        <text stroke-linecap="round" font-size="16" x="343.6669" y="347.88748"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Titius-Livius_Üzerine_Konuşma"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Titius-Livius Üzerine Konuşma
+        </text>
+        <text stroke-linecap="round" font-size="16" x="486.01758" y="264.78702"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tarih" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Tarih
+        </text>
+        <text stroke-linecap="round" font-size="16" x="477.364" y="-46.07279"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Agricola" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            Agricola
+        </text>
+        <text stroke-linecap="round" font-size="16" x="546.3186" y="154.7668"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Militiades&apos;in_Hayatı"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            Militiades&apos;in Hayatı
+        </text>
+        <text stroke-linecap="round" font-size="16" x="558.099" y="54.931927"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_M_d&apos;Alembert&apos;e_Mektup"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.5px">
+            M d&apos;Alembert&apos;e Mektup
+        </text>
+        <text stroke-linecap="round" font-size="16" x="259.93048" y="-130.78989"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_De_Cive" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.5px">
+            De Cive
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="16" x="-124.968895" y="189.61899" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Suyu_Arayan_Adam">
+            Suyu Arayan Adam
+        </text>
+        <text font-size="16" x="40.80216" y="298.16687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türk_Yurdu_Mecmuası">
+            Türk Yurdu Mecmuası
+        </text>
+        <text font-size="16" x="-193.21732" y="435.74594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hurafattan_Hakikata">
+            Hurafattan Hakikata
+        </text>
+        <text font-size="16" x="-106.8881" y="372.50787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Turan">
+            Turan
+        </text>
+        <text font-size="16" x="96.587776" y="254.59857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cihan_Harbini_Nasıl_İdare_Ettik">
+            Cihan Harbini Nasıl İdare Ettik
+        </text>
+        <text font-size="16" x="-360.04944" y="323.47348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moskova_Hatıraları">
+            Moskova Hatıraları
+        </text>
+        <text font-size="16" x="-192.47314" y="332.00433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İki_Devrin_Perde_Arkası">
+            İki Devrin Perde Arkası
+        </text>
+        <text font-size="16" x="-232.31302" y="224.7376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Makedonya&apos;dan_Ortaasya&apos;ya">
+            Makedonya&apos;dan Ortaasya&apos;ya
+        </text>
+        <text font-size="16" x="-112.04153" y="42.858456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bugünkü_Türkistan">
+            Bugünkü Türkistan
+        </text>
+        <text font-size="16" x="-331.92978" y="167.85892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tek_Adam">
+            Tek Adam
+        </text>
+        <text font-size="16" x="-174.6005" y="77.232834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İstiklal_Harbimiz">
+            İstiklal Harbimiz
+        </text>
+        <text font-size="16" x="19.88586" y="208.56174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Büyük_Petro">
+            Büyük Petro
+        </text>
+        <text font-size="16" x="-168.9425" y="-24.669386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kaybolmuş_Köy">
+            Kaybolmuş Köy
+        </text>
+        <text font-size="16" x="69.17056" y="174.77582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bu_Dünyadan_Nazım_Geçti">
+            Bu Dünyadan Nazım Geçti
+        </text>
+        <text font-size="16" x="54.674408" y="348.00818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İstiklal_Mücadelesi_ve_Enver_Paşa">
+            İstiklal Mücadelesi ve Enver Paşa
+        </text>
+        <text font-size="16" x="6.218441" y="112.10994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_İnkilap_Tarihimiz_ve_İttihad_ve_Terakki">
+            İnkilap Tarihimiz ve İttihad ve Terakki
+        </text>
+        <text font-size="16" x="-41.548485" y="429.40686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türkiye&apos;de_İnkilap_Hareketleri">
+            Türkiye&apos;de İnkilap Hareketleri
+        </text>
+        <text font-size="16" x="21.59071" y="396.87164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Türkiye&apos;nin_Taksimi">
+            Türkiye&apos;nin Taksimi
+        </text>
+        <text font-size="16" x="181.06128" y="90.34124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Floransa_Tarihi">
+            Floransa Tarihi
+        </text>
+        <text font-size="16" x="-296.1717" y="10.214633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kırmızı_Mektuplar">
+            Kırmızı Mektuplar
+        </text>
+        <text font-size="16" x="-263.10217" y="384.65186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ben_Bir_Stalin_Ajanıyım">
+            Ben Bir Stalin Ajanıyım
+        </text>
+        <text font-size="16" x="-313.91217" y="119.574066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Muasır_Türkiye’nin_İktisadi_İnkişaf_İstikametleri">
+            Muasır Türkiye’nin İktisadi İnkişaf İstikametleri
+        </text>
+        <text font-size="16" x="-16.79483" y="1.9792075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_İnkılap_ve_Kadro">
+            İnkılap ve Kadro
+        </text>
+        <text font-size="16" x="-253.76276" y="288.80334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Devlet_ve_Fert">
+            Devlet ve Fert
+        </text>
+        <text font-size="16" x="-403.448" y="242.52328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fırkamızın_Devletçilik_Vasfı">
+            Fırkamızın Devletçilik Vasfı
+        </text>
+        <text font-size="16" x="356.27704" y="84.7097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Toplum_Sözleşmesi">
+            Toplum Sözleşmesi
+        </text>
+        <text font-size="16" x="455.5644" y="314.1184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Fransa&apos;nın_Komşuları_ile_Olan_Çıkarları_Üzerine">
+            Fransa&apos;nın Komşuları ile Olan Çıkarları Üzerine
+        </text>
+        <text font-size="16" x="538.2764" y="-6.819626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Politika">
+            Politika
+        </text>
+        <text font-size="16" x="351.42523" y="-105.04982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hayvanlarda_Düşünme">
+            Hayvanlarda Düşünme
+        </text>
+        <text font-size="16" x="423.86154" y="-78.4319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Geneva">
+            Geneva
+        </text>
+        <text font-size="16" x="516.911" y="204.34303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kanunların_Ruhu">
+            Kanunların Ruhu
+        </text>
+        <text font-size="16" x="343.6669" y="347.88748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Titius-Livius_Üzerine_Konuşma">
+            Titius-Livius Üzerine Konuşma
+        </text>
+        <text font-size="16" x="486.01758" y="264.78702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tarih">
+            Tarih
+        </text>
+        <text font-size="16" x="477.364" y="-46.07279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Agricola">
+            Agricola
+        </text>
+        <text font-size="16" x="546.3186" y="154.7668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Militiades&apos;in_Hayatı">
+            Militiades&apos;in Hayatı
+        </text>
+        <text font-size="16" x="558.099" y="54.931927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_M_d&apos;Alembert&apos;e_Mektup">
+            M d&apos;Alembert&apos;e Mektup
+        </text>
+        <text font-size="16" x="259.93048" y="-130.78989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_De_Cive">
+            De Cive
+        </text>
+    </g>
+</svg>

@@ -48,12 +48,12 @@ class View(ttk.Frame):
         self.ref_page.grid(row=5, column=1, padx=10, pady=10,sticky = tk.EW)
 
         # Set the reference type
-        types = ['Select a type', 'Footnote', 'Bibliography']
+        self.types = ['Select a type', 'Footnote', 'Bibliography']
         self.types_select = tk.StringVar()
         self.types_select.set("Select a type")
         self.types_lbl = ttk.Label(self, text="Select a type for reference: ")
         self.types_lbl.grid(row=6, column=0, padx=10, pady=10)
-        self.types_list = ttk.OptionMenu( self ,self.types_select, *types )
+        self.types_list = ttk.OptionMenu( self ,self.types_select, *self.types )
         self.types_list.grid(row=6, column=1, padx=10, pady=10,sticky = tk.EW)
 
         # Add the reference to the graph
@@ -63,19 +63,6 @@ class View(ttk.Frame):
         # Save graph as file
         self.export_graph_button = ttk.Button(self, text = "Export graph as file",  command = self.export_graph_clicked)
         self.export_graph_button.grid(row=7, column=1, padx=10, pady=10,sticky = tk.EW)
-        # # create widgets
-        # # label
-        # self.label = ttk.Label(self, text='Email:')
-        # self.label.grid(row=1, column=0)
-
-        # # email entry
-        # self.email_var = tk.StringVar()
-        # self.email_entry = ttk.Entry(self, textvariable=self.email_var, width=30)
-        # self.email_entry.grid(row=1, column=1, sticky=tk.NSEW)
-
-        # # save button
-        # self.save_button = ttk.Button(self, text='Save', command=self.save_button_clicked)
-        # self.save_button.grid(row=1, column=3, padx=10)
 
         # message
         self.message_label = ttk.Label(self, text='', foreground='red')
@@ -108,27 +95,20 @@ class View(ttk.Frame):
                 "selectedReferenceType" : self.types_select.get()
                 }
             self.controller.add_to_graph(entries)
+            self.reset_references()
     def export_graph_clicked(self):
         if self.controller:
             self.controller.export_graph()
-    # def save_button_clicked(self):
-    #     """
-    #     Handle button click event
-    #     :return:
-    #     """
-    #     if self.controller:
-    #         self.controller.save(self.email_var.get())
 
-    # def show_error(self, message):
-    #     """
-    #     Show an error message
-    #     :param message:
-    #     :return:
-    #     """
-    #     self.message_label['text'] = message
-    #     self.message_label['foreground'] = 'red'
-    #     self.message_label.after(3000, self.hide_message)
-    #     self.email_entry['foreground'] = 'red'
+    def show_error(self, message):
+        """
+        Show an error message
+        :param message:
+        :return:
+        """
+        self.message_label['text'] = message
+        self.message_label['foreground'] = 'red'
+        self.message_label.after(3000, self.hide_message)
 
     def show_success(self, message):
         """
@@ -138,39 +118,44 @@ class View(ttk.Frame):
         """
         self.message_label['text'] = message
         self.message_label['foreground'] = 'green'
-        # self.message_label.after(3000, self.hide_message)
+        self.message_label.after(3000, self.hide_message)
 
-        # reset the form
-        # self.email_entry['foreground'] = 'black'
-        # self.email_var.set('')
+    def hide_message(self):
+        """
+        Hide the message
+        :return:
+        """
+        self.message_label['text'] = ''
 
-    # def hide_message(self):
-    #     """
-    #     Hide the message
-    #     :return:
-    #     """
-    #     self.message_label['text'] = ''
+    def reset_references(self):
+        """
+        Reset the fields of the reference.
+        :return:
+        """
+        self.ref_book.delete(0, 'end')
+        self.ref_author.delete(0, 'end')
+        self.ref_page.delete(0, 'end')
+        self.types_select.set(self.types[0])
 
 class Output(ttk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
         self.configure(width=400, height=400)
         self.grid(row=8, column=0, rowspan=8, columnspan=3,padx=10, pady=10)
-        self.draw_graph_button = ttk.Button(self, text = "Draw the Graph",  command = self.draw_graph_clicked)
+        self.draw_graph_button = ttk.Button(self, text = "Draw the Graph",  command = self.draw_graph)
         self.draw_graph_button.grid(row=8, column=1, padx=10, pady=10,sticky = tk.EW)
-    def draw_graph_clicked(self):
+        
+    def draw_graph(self):
         if self.controller:
             graph = self.controller.get_graph()
             draw_networkx(graph, pos=nx.spring_layout(graph), node_color="#a2ad00", edge_color="#E37222")
-            # window = tk.Tk()
+
             canvas = tk.Canvas(self, width=200, height=200)
             canvas.grid(row=9, column=0, padx=10, pady=10,sticky = tk.EW)
             figure, axes = plt.gcf(), plt.gca()
-            
             figure_tk = FigureCanvasTkAgg(figure, master=canvas)
             figure_tk.get_tk_widget().pack(side="top", fill="both", expand=True)
             figure_tk.draw()
-
 
     def set_controller(self, controller):
         self.controller = controller

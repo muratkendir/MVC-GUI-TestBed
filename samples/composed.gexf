@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-27">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="toplum_sozlesmesi">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="page" type="string" />
+      <attribute id="2" title="ref-type" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="author" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Suyu Arayan Adam" label="Suyu Arayan Adam">
+        <attvalues>
+          <attvalue for="0" value="Şevket Süreyya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="Türk Yurdu Mecmuası" label="Türk Yurdu Mecmuası">
+        <attvalues>
+          <attvalue for="0" value="Ahmet Hikmet Müftüoğlu" />
+        </attvalues>
+      </node>
+      <node id="Hurafattan Hakikata" label="Hurafattan Hakikata">
+        <attvalues>
+          <attvalue for="0" value="Şemseddin Bey" />
+        </attvalues>
+      </node>
+      <node id="Turan" label="Turan">
+        <attvalues>
+          <attvalue for="0" value="Levi Kohen" />
+        </attvalues>
+      </node>
+      <node id="Cihan Harbini Nasıl İdare Ettik" label="Cihan Harbini Nasıl İdare Ettik">
+        <attvalues>
+          <attvalue for="0" value="Kazım Karabekir" />
+        </attvalues>
+      </node>
+      <node id="Moskova Hatıraları" label="Moskova Hatıraları">
+        <attvalues>
+          <attvalue for="0" value="Ali Fuat Cebesoy" />
+        </attvalues>
+      </node>
+      <node id="İki Devrin Perde Arkası" label="İki Devrin Perde Arkası">
+        <attvalues>
+          <attvalue for="0" value="Hüsamettin Ertürk" />
+        </attvalues>
+      </node>
+      <node id="Makedonya'dan Ortaasya'ya" label="Makedonya'dan Ortaasya'ya">
+        <attvalues>
+          <attvalue for="0" value="Şevket Sürayya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="Bugünkü Türkistan" label="Bugünkü Türkistan">
+        <attvalues>
+          <attvalue for="0" value="Zeki Velidi Togan" />
+        </attvalues>
+      </node>
+      <node id="Tek Adam" label="Tek Adam">
+        <attvalues>
+          <attvalue for="0" value="Şevket Süreyya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="İstiklal Harbimiz" label="İstiklal Harbimiz">
+        <attvalues>
+          <attvalue for="0" value="Kazım Karabekir" />
+        </attvalues>
+      </node>
+      <node id="Büyük Petro" label="Büyük Petro">
+        <attvalues>
+          <attvalue for="0" value="Aleksi Tolstoy" />
+        </attvalues>
+      </node>
+      <node id="Kaybolmuş Köy" label="Kaybolmuş Köy">
+        <attvalues>
+          <attvalue for="0" value="Richthofen" />
+        </attvalues>
+      </node>
+      <node id="Bu Dünyadan Nazım Geçti" label="Bu Dünyadan Nazım Geçti">
+        <attvalues>
+          <attvalue for="0" value="Vala Nurettin" />
+        </attvalues>
+      </node>
+      <node id="İstiklal Mücadelesi ve Enver Paşa" label="İstiklal Mücadelesi ve Enver Paşa">
+        <attvalues>
+          <attvalue for="0" value="Sami Sabit Karaman" />
+        </attvalues>
+      </node>
+      <node id="İnkilap Tarihimiz ve İttihad ve Terakki" label="İnkilap Tarihimiz ve İttihad ve Terakki">
+        <attvalues>
+          <attvalue for="0" value="Ahmet Bedevi Kuran" />
+        </attvalues>
+      </node>
+      <node id="Türkiye'de İnkilap Hareketleri" label="Türkiye'de İnkilap Hareketleri">
+        <attvalues>
+          <attvalue for="0" value="Ahmet Bedevi Kuran" />
+        </attvalues>
+      </node>
+      <node id="Türkiye'nin Taksimi" label="Türkiye'nin Taksimi">
+        <attvalues>
+          <attvalue for="0" value="SSCB" />
+        </attvalues>
+      </node>
+      <node id="Floransa Tarihi" label="Floransa Tarihi">
+        <attvalues>
+          <attvalue for="0" value="Machiavelli" />
+        </attvalues>
+      </node>
+      <node id="Kırmızı Mektuplar" label="Kırmızı Mektuplar">
+        <attvalues>
+          <attvalue for="0" value="Şevket Süreyya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="Ben Bir Stalin Ajanıyım" label="Ben Bir Stalin Ajanıyım">
+        <attvalues>
+          <attvalue for="0" value="W.G. Krivitsky" />
+        </attvalues>
+      </node>
+      <node id="Muasır Türkiye’nin İktisadi İnkişaf İstikametleri" label="Muasır Türkiye’nin İktisadi İnkişaf İstikametleri">
+        <attvalues>
+          <attvalue for="0" value="Şevket Süreyya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="İnkılap ve Kadro" label="İnkılap ve Kadro">
+        <attvalues>
+          <attvalue for="0" value="Şevket Süreyya Aydemir" />
+        </attvalues>
+      </node>
+      <node id="Devlet ve Fert" label="Devlet ve Fert">
+        <attvalues>
+          <attvalue for="0" value="Ahmet Ağaoğlu" />
+        </attvalues>
+      </node>
+      <node id="Fırkamızın Devletçilik Vasfı" label="Fırkamızın Devletçilik Vasfı">
+        <attvalues>
+          <attvalue for="0" value="İsmet İnönü" />
+        </attvalues>
+      </node>
+      <node id="Toplum Sözleşmesi" label="Toplum Sözleşmesi">
+        <attvalues>
+          <attvalue for="0" value="Jean Jacque Rousseau" />
+        </attvalues>
+      </node>
+      <node id="Fransa'nın Komşuları ile Olan Çıkarları Üzerine" label="Fransa'nın Komşuları ile Olan Çıkarları Üzerine">
+        <attvalues>
+          <attvalue for="0" value="Marquis d'Argenson" />
+        </attvalues>
+      </node>
+      <node id="Politika" label="Politika">
+        <attvalues>
+          <attvalue for="0" value="Aristoteles" />
+        </attvalues>
+      </node>
+      <node id="Hayvanlarda Düşünme" label="Hayvanlarda Düşünme">
+        <attvalues>
+          <attvalue for="0" value="Plutarkhos" />
+        </attvalues>
+      </node>
+      <node id="Geneva" label="Geneva">
+        <attvalues>
+          <attvalue for="0" value="M. D'Alembert" />
+        </attvalues>
+      </node>
+      <node id="Kanunların Ruhu" label="Kanunların Ruhu">
+        <attvalues>
+          <attvalue for="0" value="Montesquieu" />
+        </attvalues>
+      </node>
+      <node id="Titius-Livius Üzerine Konuşma" label="Titius-Livius Üzerine Konuşma">
+        <attvalues>
+          <attvalue for="0" value="Machiavelli" />
+        </attvalues>
+      </node>
+      <node id="Tarih" label="Tarih">
+        <attvalues>
+          <attvalue for="0" value="Tacitus" />
+        </attvalues>
+      </node>
+      <node id="Agricola" label="Agricola">
+        <attvalues>
+          <attvalue for="0" value="Tacitus" />
+        </attvalues>
+      </node>
+      <node id="Militiades'in Hayatı" label="Militiades'in Hayatı">
+        <attvalues>
+          <attvalue for="0" value="Cornelius Nepos" />
+        </attvalues>
+      </node>
+      <node id="M d'Alembert'e Mektup" label="M d'Alembert'e Mektup">
+        <attvalues>
+          <attvalue for="0" value="Jean Jacques Rousseau" />
+        </attvalues>
+      </node>
+      <node id="De Cive" label="De Cive">
+        <attvalues>
+          <attvalue for="0" value="Grotius" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Suyu Arayan Adam" target="Türk Yurdu Mecmuası" id="Suyu_Arayan_Adam---Turk_Yurdu_Mecmuasi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Hurafattan Hakikata" id="Suyu_Arayan_Adam---Hurafattan_Hakikata" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="89" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Turan" id="Suyu_Arayan_Adam---Turan" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="131" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Cihan Harbini Nasıl İdare Ettik" id="Suyu_Arayan_Adam---Cihan_Harbini_Nasil_Idare_Ettik" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="78" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Moskova Hatıraları" id="Suyu_Arayan_Adam---Moskova_Hatiralari" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="165" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="İki Devrin Perde Arkası" id="Suyu_Arayan_Adam---Iki_Devrin_Perde_Arkasi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="166" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Makedonya'dan Ortaasya'ya" id="Suyu_Arayan_Adam---Makedonya_dan_Ortaasya_ya" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="166" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Bugünkü Türkistan" id="Suyu_Arayan_Adam---Bugunku_Turkistan" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="169" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Tek Adam" id="Suyu_Arayan_Adam---Tek_Adam" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="171" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="İstiklal Harbimiz" id="Suyu_Arayan_Adam---Istiklal_Harbimiz" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="172" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Büyük Petro" id="Suyu_Arayan_Adam---Buyuk_Petro" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="195" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Kaybolmuş Köy" id="Suyu_Arayan_Adam---Kaybolmus_Koy" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="203" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Bu Dünyadan Nazım Geçti" id="Suyu_Arayan_Adam---Bu_Dunyadan_Nazim_Gecti" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="204" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="İstiklal Mücadelesi ve Enver Paşa" id="Suyu_Arayan_Adam---Istiklal_Mucadelesi_ve_Enver_Pasa" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="228" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="İnkilap Tarihimiz ve İttihad ve Terakki" id="Suyu_Arayan_Adam---Inkilap_Tarihimiz_ve_Ittihad_ve_Terakki" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="238" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Türkiye'de İnkilap Hareketleri" id="Suyu_Arayan_Adam---Turkiye_de_Inkilap_Hareketleri" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="238" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Türkiye'nin Taksimi" id="Suyu_Arayan_Adam---Turkiye_nin_Taksimi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="243" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Floransa Tarihi" id="Suyu_Arayan_Adam---Floransa_Tarihi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="245" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Kırmızı Mektuplar" id="Suyu_Arayan_Adam---Kirmizi_Mektuplar" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="272" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Ben Bir Stalin Ajanıyım" id="Suyu_Arayan_Adam---Ben_Bir_Stalin_Ajaniyim" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="287" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Muasır Türkiye’nin İktisadi İnkişaf İstikametleri" id="Suyu_Arayan_Adam---Muasir_Turkiye_nin_Iktisadi_Inkisaf_Istikametleri" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="337" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="İnkılap ve Kadro" id="Suyu_Arayan_Adam---Inkilap_ve_Kadro" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="339" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Devlet ve Fert" id="Suyu_Arayan_Adam---Devlet_ve_Fert" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="372" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Suyu Arayan Adam" target="Fırkamızın Devletçilik Vasfı" id="Suyu_Arayan_Adam---Firkamizin_Devletcilik_Vasfi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="373" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Fransa'nın Komşuları ile Olan Çıkarları Üzerine" id="Toplum_Sozlesmesi---Fransa_nin_Komsulari_ile_Olan_Cikarlari_Uzerine" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Politika" id="Toplum_Sozlesmesi---Politika" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Hayvanlarda Düşünme" id="Toplum_Sozlesmesi---Hayvanlarda_Dusunme" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Geneva" id="Toplum_Sozlesmesi---Geneva" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Floransa Tarihi" id="Toplum_Sozlesmesi---Floransa_Tarihi" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Kanunların Ruhu" id="Toplum_Sozlesmesi---Kanunlarin_Ruhu" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Titius-Livius Üzerine Konuşma" id="Toplum_Sozlesmesi---Titius_Livius_Uzerine_Konusma" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="68" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Tarih" id="Toplum_Sozlesmesi---Tarih" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="71" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Agricola" id="Toplum_Sozlesmesi---Agricola" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="81" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Militiades'in Hayatı" id="Toplum_Sozlesmesi---Militiades_in_Hayati" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="84" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="M d'Alembert'e Mektup" id="Toplum_Sozlesmesi---M_d_Alembert_e_Mektup" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="124" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="De Cive" id="Toplum_Sozlesmesi---De_Cive" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="128" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

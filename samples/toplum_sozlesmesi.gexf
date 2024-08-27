@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-27">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="toplum_sozlesmesi">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="page" type="string" />
+      <attribute id="2" title="ref-type" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="author" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Toplum Sözleşmesi" label="Toplum Sözleşmesi">
+        <attvalues>
+          <attvalue for="0" value="Jean Jacque Rousseau" />
+        </attvalues>
+      </node>
+      <node id="Fransa'nın Komşuları ile Olan Çıkarları Üzerine" label="Fransa'nın Komşuları ile Olan Çıkarları Üzerine">
+        <attvalues>
+          <attvalue for="0" value="Marquis d'Argenson" />
+        </attvalues>
+      </node>
+      <node id="Politika" label="Politika">
+        <attvalues>
+          <attvalue for="0" value="Aristoteles" />
+        </attvalues>
+      </node>
+      <node id="Hayvanlarda Düşünme" label="Hayvanlarda Düşünme">
+        <attvalues>
+          <attvalue for="0" value="Plutarkhos" />
+        </attvalues>
+      </node>
+      <node id="Geneva" label="Geneva">
+        <attvalues>
+          <attvalue for="0" value="M. D'Alembert" />
+        </attvalues>
+      </node>
+      <node id="Floransa Tarihi" label="Floransa Tarihi">
+        <attvalues>
+          <attvalue for="0" value="Machiavelli" />
+        </attvalues>
+      </node>
+      <node id="Kanunların Ruhu" label="Kanunların Ruhu">
+        <attvalues>
+          <attvalue for="0" value="Montesquieu" />
+        </attvalues>
+      </node>
+      <node id="Titius-Livius Üzerine Konuşma" label="Titius-Livius Üzerine Konuşma">
+        <attvalues>
+          <attvalue for="0" value="Machiavelli" />
+        </attvalues>
+      </node>
+      <node id="Tarih" label="Tarih">
+        <attvalues>
+          <attvalue for="0" value="Tacitus" />
+        </attvalues>
+      </node>
+      <node id="Agricola" label="Agricola">
+        <attvalues>
+          <attvalue for="0" value="Tacitus" />
+        </attvalues>
+      </node>
+      <node id="Militiades'in Hayatı" label="Militiades'in Hayatı">
+        <attvalues>
+          <attvalue for="0" value="Cornelius Nepos" />
+        </attvalues>
+      </node>
+      <node id="M d'Alembert'e Mektup" label="M d'Alembert'e Mektup">
+        <attvalues>
+          <attvalue for="0" value="Jean Jacques Rousseau" />
+        </attvalues>
+      </node>
+      <node id="De Cive" label="De Cive">
+        <attvalues>
+          <attvalue for="0" value="Grotius" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Toplum Sözleşmesi" target="Fransa'nın Komşuları ile Olan Çıkarları Üzerine" id="Toplum_Sozlesmesi---Fransa_nin_Komsulari_ile_Olan_Cikarlari_Uzerine" weight="1">
+        <attvalues>
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Politika" id="Toplum_Sozlesmesi---Politika" weight="1">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Hayvanlarda Düşünme" id="Toplum_Sozlesmesi---Hayvanlarda_Dusunme" weight="1">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Geneva" id="Toplum_Sozlesmesi---Geneva" weight="1">
+        <attvalues>
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Floransa Tarihi" id="Toplum_Sozlesmesi---Floransa_Tarihi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Kanunların Ruhu" id="Toplum_Sozlesmesi---Kanunlarin_Ruhu" weight="1">
+        <attvalues>
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Titius-Livius Üzerine Konuşma" id="Toplum_Sozlesmesi---Titius_Livius_Uzerine_Konusma" weight="1">
+        <attvalues>
+          <attvalue for="1" value="68" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Tarih" id="Toplum_Sozlesmesi---Tarih" weight="1">
+        <attvalues>
+          <attvalue for="1" value="71" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Agricola" id="Toplum_Sozlesmesi---Agricola" weight="1">
+        <attvalues>
+          <attvalue for="1" value="81" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="Militiades'in Hayatı" id="Toplum_Sozlesmesi---Militiades_in_Hayati" weight="1">
+        <attvalues>
+          <attvalue for="1" value="84" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="M d'Alembert'e Mektup" id="Toplum_Sozlesmesi---M_d_Alembert_e_Mektup" weight="1">
+        <attvalues>
+          <attvalue for="1" value="124" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+      <edge source="Toplum Sözleşmesi" target="De Cive" id="Toplum_Sozlesmesi---De_Cive" weight="1">
+        <attvalues>
+          <attvalue for="1" value="128" />
+          <attvalue for="2" value="Footnote" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
