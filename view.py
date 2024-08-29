@@ -142,20 +142,22 @@ class Output(ttk.Frame):
         super().__init__(parent)
         self.configure(width=400, height=400)
         self.grid(row=8, column=0, rowspan=8, columnspan=3,padx=10, pady=10)
+        self.axes = None
         self.draw_graph_button = ttk.Button(self, text = "Draw the Graph",  command = self.draw_graph)
         self.draw_graph_button.grid(row=8, column=1, padx=10, pady=10,sticky = tk.EW)
         
     def draw_graph(self):
         if self.controller:
+            if self.axes:
+                self.axes.clear()
             graph = self.controller.get_graph()
             draw_networkx(graph, pos=nx.spring_layout(graph), node_color="#a2ad00", edge_color="#E37222")
-
+            figure, self.axes = plt.gcf(), plt.gca()
             canvas = tk.Canvas(self, width=200, height=200)
             canvas.grid(row=9, column=0, padx=10, pady=10,sticky = tk.EW)
-            figure, axes = plt.gcf(), plt.gca()
             figure_tk = FigureCanvasTkAgg(figure, master=canvas)
             figure_tk.get_tk_widget().pack(side="top", fill="both", expand=True)
             figure_tk.draw()
-
+            
     def set_controller(self, controller):
         self.controller = controller

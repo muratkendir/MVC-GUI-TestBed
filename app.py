@@ -1,6 +1,15 @@
 from controller import Controller
 from model import Model
-from view import tk, View, Output
+import argparse
+parser = argparse.ArgumentParser(prog='Book2Book')
+parser.add_argument('-g', '--gui', default='tkinter', help='Select one of the GUI library: Tkinter | Some other ...')
+args = parser.parse_args()
+if args.gui == 'tkinter':
+    print('Default GUI selected.')
+    from view import tk, View, Output
+else:
+    from view import tk, View, Output
+
 from tkinter import ttk
 
 
